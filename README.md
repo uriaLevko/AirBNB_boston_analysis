@@ -22,5 +22,5 @@ focusing on listing data frame:
 5. Does removing those features improves the model results?
 
 <p align="center">
-<img src="images/SSD_NO_CLASSES.JPG" width=50% height=50% >
+<img src="supporting_files/airbnb.jpg" width=50% height=50% >
 </p>
